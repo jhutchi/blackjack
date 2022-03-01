@@ -1,0 +1,25 @@
+body {
+	font-family: 'Trubuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Arial'
+	sans-serif;
+	background-image: url("felttable.jpg");
+	background-size: cover;
+	text-align; center;
+	coler: white;
+	font-weight: bold;
+}
+
+h1 {
+	color: goldenrod;
+}
+
+#message-el {
+	font-style: italic;	
+}
+
+button {
+	color: #016f32;
+	width: 150px;
+	background: goldenrod;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
